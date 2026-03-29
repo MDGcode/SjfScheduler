@@ -1,0 +1,15 @@
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/bin/Debug/net8.0/SjfScheduler
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/bin/Debug/net8.0/SjfScheduler.deps.json
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/bin/Debug/net8.0/SjfScheduler.runtimeconfig.json
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/bin/Debug/net8.0/SjfScheduler.dll
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/bin/Debug/net8.0/SjfScheduler.pdb
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.AssemblyInfoInputs.cache
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.AssemblyInfo.cs
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.csproj.CoreCompileInputs.cache
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.dll
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/refint/SjfScheduler.dll
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.pdb
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.genruntimeconfig.cache
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/ref/SjfScheduler.dll
+/Users/adrianboscanici/Documents/proiect_so/SjfScheduler/obj/Debug/net8.0/SjfScheduler.sourcelink.json
